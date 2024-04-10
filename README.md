@@ -1,13 +1,3 @@
-
-Certainly! Here's the text for the README file:
-
-
-markdown
-Edit
-
-Run
-Append
-Copy
 # Aryan's Chatbot
 
 **Aryan's Chatbot** is a conversational interface application developed using **Streamlit** and **OpenAI**. This chatbot leverages the power of the GPT-3.5 model to generate responses based on user input, providing an interactive experience.
